@@ -1,18 +1,13 @@
-# 🧩 Business Systems Analysis Project — Hotel Operations Workflow Optimization
+Business System Analyst Portfolio
 
-**Project Overview:**  
-This project analyzes the front-desk workflow of a hotel and identifies process bottlenecks.  
-The goal is to improve efficiency by automating guest check-in and integrating PMS & CRM systems.
+This repository showcases my work and projects as a Business System Analyst (BSA). The goal of this portfolio is to demonstrate my ability to:
 
-**Deliverables:**  
-- Business Requirements Document (BRD)
-- As-Is and To-Be Process Maps
-- Executive Summary Report
+Analyze business processes and identify bottlenecks
 
-**Tools & Techniques Used:**  
-Lucidchart · Microsoft Word · Process Mapping · Requirements Gathering
+Design optimized workflows and process improvements
 
-**Key Outcomes:**  
-- Reduced manual data entry by an estimated 40%  
-- Improved guest check-in accuracy and reduced average processing time  
-- Provided detailed BRD to outline system requirements and success metrics
+Document requirements, solutions, and expected outcomes
+
+Use tools like flowcharts, diagrams, and BRDs to communicate effectively
+
+Each project in this portfolio focuses on real-world scenarios where I applied analytical and problem-solving skills to improve business operations. The projects include process analysis, workflow optimization, and documentation that highlight my readiness for entry-level BSA roles.

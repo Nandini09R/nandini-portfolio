@@ -1,18 +1,29 @@
-# 📊 Data Analytics Project — Hotel Performance Dashboard (Power BI)
+📊 Hotel Performance Dashboard (Power BI)
 
-**Project Overview:**  
-Designed and developed a Power BI dashboard to analyze hotel performance KPIs such as revenue, occupancy, ADR, and customer satisfaction.
+Overview:
+This project analyzes hotel performance metrics including occupancy, revenue, ADR, and customer satisfaction to identify key business insights.
 
-**Deliverables:**  
-- hotel_performance_dataset.csv (synthetic dataset)
-- Hotel_Performance_Dashboard.pbix (Power BI file)
-- Insights Summary Report
+Dataset:
+Synthetic hotel data (40 bookings) created using Excel.
 
-**Tools & Skills Used:**  
-Power BI · DAX · Excel · Data Modeling · Visualization
+Deliverables:
 
-**Key Insights:**  
-- Occupancy peaks in July–August (~85%)  
-- Deluxe rooms generate 35% more revenue than Standard rooms  
-- OTA bookings have lower ratings compared to direct bookings
+hotel_performance_dataset.xlsx – Raw dataset
+
+Hotel_Performance_Dashboard.pbix – Power BI dashboard
+
+Hotel_Performance_Insights_Summary.pdf – Key insights and recommendations
+
+Tools & Skills Used:
+Power BI · DAX · Data Modeling · Excel · Visualization · KPI Analysis
+
+Key Insights:
+
+Occupancy Rate: 26.67%
+
+Total Revenue: ~$19,540 CAD
+
+Direct bookings had higher satisfaction than OTA bookings.
+
+Deluxe and Suite rooms contributed most to revenue.
 

@@ -1,17 +1,11 @@
-# 📊 Data Analytics Project — Hotel Performance Dashboard (Power BI)
+# Data Analytics Portfolio
 
-**Project Overview:**  
-Designed and developed a Power BI dashboard to analyze hotel performance KPIs such as revenue, occupancy, ADR, and customer satisfaction.
+This repository showcases my work and projects in **Data Analytics**. The goal of this portfolio is to demonstrate my ability to:
 
-**Deliverables:**  
-- hotel_performance_dataset.csv (synthetic dataset)
-- Hotel_Performance_Dashboard.pbix (Power BI file)
-- Insights Summary Report
+- Collect, clean, and organize data from various sources  
+- Perform exploratory data analysis and generate insights  
+- Visualize data using tools like Power BI, Excel, and Python  
+- Document findings and present actionable recommendations  
 
-**Tools & Skills Used:**  
-Power BI · DAX · Excel · Data Modeling · Visualization
+Each project in this portfolio focuses on real-world scenarios where I applied analytical and problem-solving skills to extract insights and support data-driven decision-making. The projects highlight my readiness for entry-level Data Analyst roles.
 
-**Key Insights:**  
-- Occupancy peaks in July–August (~85%)  
-- Deluxe rooms generate 35% more revenue than Standard rooms  
-- OTA bookings have lower ratings compared to direct bookings
